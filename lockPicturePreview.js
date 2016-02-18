@@ -1,5 +1,6 @@
 /**
  * 图片本地预览
+ * https://github.com/lock-upme/jquery-picture-local-preview
  *
  * @author lock
  */
